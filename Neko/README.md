@@ -10,7 +10,7 @@ Nekoavatar,
 Wallpaper,
 Waifu,
 Smug,
-Baka,
+Baka
 
 # NSFW Queries (Can only be used in NSFW Channels)
 Ahegaoavatar,
