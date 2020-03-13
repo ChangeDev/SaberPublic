@@ -12,6 +12,7 @@ There are currently 25 commands, no moderation commands exactly but serverinfo, 
 +serverinfo - Shows info about the server,
 +userinfo - Shows info about the mentioned user,
 +avatar - Tag someone to get their avatar
++purge - Purge your decided amount. 100 is max.
 
 ## Fun
 +8ball - Ask anything and it'll answer you,
@@ -26,6 +27,8 @@ There are currently 25 commands, no moderation commands exactly but serverinfo, 
 +kiss - Kiss someone, just tag and can't aswell kiss yourself,
 +slap - Slap someone, tag and slap,
 +pat - Pat pat, tag someone to pat,
++poke - Tag someone to poke them,
++cuddle - Tag someone to cuddle with them,
 +smug - Smug :),
 +reddit - Fetches a post from the Chosen subreddit (ex: +reddit memes)
 
